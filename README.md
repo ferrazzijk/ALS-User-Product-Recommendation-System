@@ -19,6 +19,8 @@ The data comes from Kaggle and can be found [here](https://www.kaggle.com/c/inst
 
 Skills:  Pyspark, Cosine Similarity, Alternating Least Square Matrix Factorization, Collaborative Filtering, Data Merging, Hyperparameter Testing, Google Data Studio Dashboard, Data Visualization
 
+View my Google Data Studio Dashboard for this project [here](https://datastudio.google.com/u/0/reporting/714b6b6e-bf81-4025-8673-da32cdc95a76/page/LuBV).
+
 **Works Cited**
 
 Instacart. “Instacart Market Basket Analysis | Kaggle.” Kaggle, Instacart, 2017, www.kaggle.com/c/instacart-market-basket-analysis/data.
