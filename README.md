@@ -31,6 +31,7 @@ Ultimately, the RMSE of the order based ALS model was lower than the quantity ba
 
 
 How the Recommender System Works:
+![Recommender System Flowchart](https://user-images.githubusercontent.com/68753465/114949641-088fa480-9e17-11eb-8563-feecc86e34ce.png)
 
 Two attributes were used to evaluate the performance of the models, Root Mean Squared Error of the ALS model and the Distribution of the Weighted Score. 
 
