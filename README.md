@@ -21,6 +21,27 @@ Skills:  Pyspark, Cosine Similarity, Alternating Least Square Matrix Factorizati
 
 View my Google Data Studio Dashboard for this project [here](https://datastudio.google.com/u/0/reporting/714b6b6e-bf81-4025-8673-da32cdc95a76/page/LuBV).
 
+# **Conclusions**
+
+Two attributes were used to evaluate the performance of the models, Root Mean Squared Error of the ALS model and the Distribution of the Weighted Score. 
+
+Here RMSE refers to the error between the original matrix (user item interaction matrix) and the product of the two smaller matrices that we are trying to learn through ALS. 
+
+Ultimately, the RMSE of the order based ALS model was lower than the quantity based ALS model and the distribution of the weighted scores was less skewed for the order based model than the quantity based model. Therefore the Order Based model is the better performing model. 
+
+
+How the Recommender System Works:
+
+Two attributes were used to evaluate the performance of the models, Root Mean Squared Error of the ALS model and the Distribution of the Weighted Score. 
+
+Here RMSE refers to the error between the original matrix (user item interaction matrix) and the product of the two smaller matrices that we are trying to learn through ALS. 
+
+Ultimately, the RMSE of the order based ALS model was lower than the quantity based ALS model and the distribution of the weighted scores was less skewed for the order based model than the quantity based model. Therefore the Order Based model is the better performing model. 
+
+
+How the Recommender System Works:
+
+
 **Works Cited**
 
 Instacart. “Instacart Market Basket Analysis | Kaggle.” Kaggle, Instacart, 2017, www.kaggle.com/c/instacart-market-basket-analysis/data.
